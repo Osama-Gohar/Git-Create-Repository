@@ -1,5 +1,5 @@
 first line
 feature 1-------
 feature 2-------
-login user 
+login user 1
 login password
